@@ -6,7 +6,7 @@ homepage: https://github.com/AmolGangadhare/flutter_barcode_scanner
 
 environment:
   sdk: '>=3.5.3 <4.0.0'
-  flutter: ">=1.12.0"
+
 
 dependencies:
   flutter:
